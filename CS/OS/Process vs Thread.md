@@ -1,5 +1,4 @@
 # Process & Thread
-<hr/>
 
 > **프로세스** : 프로그램을 메모리 상에서 실행중인 작업
 >
@@ -70,7 +69,3 @@
 2. 너무 많은 스레드 사용은 오버헤드 발생
 3. 다른 프로세스에서 스레드 제어가 불가하다
 ```
-<br>
-
-![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fxzrke%2FbtrhVCve3we%2F0CuAFYeQuczLiEytFD2k51%2Fimg.png)
-![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fxzrke%2FbtrhVCve3we%2F0CuAFYeQuczLiEytFD2k51%2Fimg.png)
